@@ -1,5 +1,3 @@
-# ST-IAT-for-RR2023
-ST-IAT Code!
 var API = new APIConstructor();
 		  return stiatExtension({
 		  category : { 
